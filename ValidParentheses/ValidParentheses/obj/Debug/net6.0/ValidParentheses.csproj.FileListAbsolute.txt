@@ -1,0 +1,15 @@
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\bin\Debug\net6.0\ValidParentheses.exe
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\bin\Debug\net6.0\ValidParentheses.deps.json
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\bin\Debug\net6.0\ValidParentheses.runtimeconfig.json
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\bin\Debug\net6.0\ValidParentheses.dll
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\bin\Debug\net6.0\ref\ValidParentheses.dll
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\bin\Debug\net6.0\ValidParentheses.pdb
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.AssemblyInfo.cs
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.dll
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ref\ValidParentheses.dll
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.pdb
+D:\kia prjc\tamrin\ValidParentheses\ValidParentheses\obj\Debug\net6.0\ValidParentheses.genruntimeconfig.cache
